@@ -59,17 +59,6 @@ An end-to-end AI system that reads invoices, contracts, court judgments, licence
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwinth-dharumaseelan&show_icons=true&hide_border=true&title_color=FF3621&icon_color=FF3621&text_color=555&bg_color=00000000" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinth-dharumaseelan&layout=compact&hide_border=true&title_color=FF3621&text_color=555&bg_color=00000000" alt="Top languages">
-
-</div>
-
----
-
 <div align="center">
 
 💡 *Currently building AI that makes records management effortless.*
